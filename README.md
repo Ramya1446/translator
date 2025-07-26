@@ -1,56 +1,35 @@
-🇮🇳 Indian Multilingual Translator
-A powerful and intuitive web app that translates between multiple Indian languages using translation APIs and speech-to-text capabilities. Built to break language barriers across the subcontinent.
+# 🌐 Multilingual Indian Language Translator with Speech-to-Text
 
-🌟 #Features
-🔁 Multi-language translation (e.g. Hindi, Tamil, Telugu, Kannada, Bengali, Malayalam, Marathi, etc.)
+A powerful translator web app that supports multiple Indian languages with real-time **Speech-to-Text (STT)** functionality. Powered by a translation API, this app allows users to input text or speak in their native language and get instant translations. Perfect for students, travelers, content creators, and multilingual users.
 
-🗣️ Speech-to-Text input for supported languages
+## 🚀 Features
 
-🧠 Uses translation APIs for accurate results
+✅ Translate between multiple Indian languages (e.g., Hindi, Tamil, Telugu, Kannada, Bengali, Malayalam, etc.)  
+✅ Supports both text input and **speech-to-text conversion**  
+✅ Instant translation using translation API  
+✅ Clean and responsive UI built with Streamlit  
+✅ Copy or download the translated output  
+✅ Lightweight and fast – runs on browser  
 
-⚡ Fast and responsive UI
+## 🛠️ Tech Stack
 
-🎤 Real-time voice input with automatic detection
+- **Python** 🐍  
+- **Streamlit** – UI framework  
+- **SpeechRecognition** – for voice input  
+- **Google Translate API / IndicNLP / Any Translation API** – for translating text  
+- **pyaudio / whisper / vosk (optional)** – for voice processing  
+- **Git & GitHub** – version control  
 
-📱 Mobile-friendly design (if applicable)
+## 📦 Installation
 
-🛠️ Tech Stack
-Frontend: HTML, CSS, JavaScript (or Streamlit if used)
+Clone the repository and install the required packages:
 
-Backend / Logic: Python
-
-APIs: Google Translate API / Azure Translator / any other API you used
-
-Speech Recognition: Web Speech API / Python SpeechRecognition / Whisper (if applicable)
-
-Framework: Streamlit / Flask (depending on what you used)
-
-🚀 How It Works
-Select source and target languages.
-
-Type or speak your input.
-
-Click Translate to get instant results.
-
- Copy or listen to the output.
-
-📸 Screenshots
-<img width="1410" height="832" alt="image" src="https://github.com/user-attachments/assets/13e7d124-ba6d-48aa-89c4-f752e472606f" />
-
-🔧 Setup Instructions
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/indian-translator.git
-cd indian-translator
+git clone https://github.com/your-username/indian-language-translator.git
 
-# (Optional) Set up virtual environment
-python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
+# Move into the project directory
+cd indian-language-translator
 
 # Install dependencies
 pip install -r requirements.txt
-
-# Run the app
-streamlit run app.py  # or python app.py depending on your framework```
-
-
