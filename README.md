@@ -21,7 +21,13 @@ A powerful translator web app that supports multiple Indian languages with real-
 - **Git & GitHub** – version control
 -  
 ## Screenshot
-<img width="1345" height="841" alt="image" src="https://github.com/user-attachments/assets/78e286a9-01f0-4d66-80f3-1229ba52e17d" />
+<img width="1007" height="799" alt="Screenshot 2025-07-26 121707" src="https://github.com/user-attachments/assets/8f4d8ab6-1695-440e-b080-49432c829984" />
+<img width="968" height="690" alt="Screenshot 2025-07-26 131803" src="https://github.com/user-attachments/assets/bb257cf9-cc26-4a4b-9421-b57b28419002" />
+<img width="890" height="795" alt="Screenshot 2025-07-26 131816" src="https://github.com/user-attachments/assets/d105e3f1-915c-4b89-99fe-71b4c02d5eed" />
+<img width="886" height="516" alt="Screenshot 2025-07-26 131833" src="https://github.com/user-attachments/assets/5a732944-6a2f-4a98-ae4f-3c2b6c9592f6" />
+<img width="665" height="653" alt="Screenshot 2025-07-26 131901" src="https://github.com/user-attachments/assets/a8a4b22d-cbba-40d2-bf5c-4bb6c630f8c6" />
+
+
 
 ## 📦 Installation
 
