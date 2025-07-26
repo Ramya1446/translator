@@ -13,12 +13,15 @@ A powerful translator web app that supports multiple Indian languages with real-
 
 ## 🛠️ Tech Stack
 
-- **Python** 🐍  
+- **Python**   
 - **Streamlit** – UI framework  
 - **SpeechRecognition** – for voice input  
 - **Google Translate API / IndicNLP / Any Translation API** – for translating text  
 - **pyaudio / whisper / vosk (optional)** – for voice processing  
-- **Git & GitHub** – version control  
+- **Git & GitHub** – version control
+-  
+## Screenshot
+<img width="1345" height="841" alt="image" src="https://github.com/user-attachments/assets/78e286a9-01f0-4d66-80f3-1229ba52e17d" />
 
 ## 📦 Installation
 
