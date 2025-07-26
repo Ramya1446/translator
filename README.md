@@ -1,7 +1,7 @@
 🇮🇳 Indian Multilingual Translator
 A powerful and intuitive web app that translates between multiple Indian languages using translation APIs and speech-to-text capabilities. Built to break language barriers across the subcontinent.
 
-🌟 Features
+🌟 #Features
 🔁 Multi-language translation (e.g. Hindi, Tamil, Telugu, Kannada, Bengali, Malayalam, Marathi, etc.)
 
 🗣️ Speech-to-Text input for supported languages
